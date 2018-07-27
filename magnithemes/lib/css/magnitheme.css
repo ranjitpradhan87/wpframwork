@@ -1,0 +1,58 @@
+.headertwo .menu li {
+	float: none;
+	display: inline-block;
+}
+.headertwo .menu ul {
+	text-align: right;
+}
+/* Header Three Style */
+
+.headerthree .site-branding {
+	text-align: right;
+}
+.headerthree .menu li {
+	float: none;
+	display: inline-block;
+}
+.headerthree .menu ul {
+	text-align: right;
+}
+
+/* Header Four Style */
+
+.headerfour .site-branding {
+	text-align: center;
+}
+.headerthree .menu li {
+	float: none;
+	display: inline-block;
+}
+.headerthree .menu ul {
+	text-align: right;
+}
+
+/* Header Five Style */
+
+.headerfive .site-branding {
+	text-align: center;
+}
+.headerfive .menu li {
+	float: none;
+	display: inline-block;
+}
+.headerfive .menu ul {
+	text-align: center;
+}
+
+/* Header Five Style */
+
+.headersix .site-branding {
+	text-align: center;
+}
+.headersix .menu li {
+	float: none;
+	display: inline-block;
+}
+.headersix .menu ul {
+	text-align: right;
+}
